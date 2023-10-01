@@ -1,0 +1,13 @@
+variable 
+string 
+int
+float
+compelx
+boolean
+type()
+add comment 
+operations on integer, string and boolean
+typecasting
+input()
+typecasting()
+
