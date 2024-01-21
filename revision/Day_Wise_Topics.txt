@@ -1,0 +1,18 @@
+19 Aug :
+	1. python basics 
+	2. Data Types
+	3. string slicing 
+	4. string operations
+	5. operators
+
+-------------------------------------
+20 Aug
+	1. List 
+	2. List operations
+	3. List Slicing
+	4. Tuple 
+	5.Tuple Operations
+	6. Tuple Slicing
+	7. Set
+	8. Set oprtations
+	9. Dictionary operations.

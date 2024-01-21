@@ -1,0 +1,11 @@
+1. sum of first n natural numbers 
+2. search an element in the array .    aka linear search 
+3. filter even and odd numbers 
+4. sum of primary diagonals in 2d square matrix 
+5. sum of secondary diagonal elemnents in 2d square matrix.
+6. Remove duplicate  elements from the list.
+7. reverse an array.
+8. Given an array and an integer k, rotate the array to the right by k steps.
+9. Reverse the given array in-place, means without using any extra data structure.
+10. Given an array of integers, find the maximum element in an array.
+11. 
